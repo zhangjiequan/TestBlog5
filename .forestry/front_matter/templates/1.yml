@@ -8,4 +8,5 @@ fields:
     required: false
   label: '12'
 pages:
+- _posts/123/dadf.md
 - _posts/test1.md
