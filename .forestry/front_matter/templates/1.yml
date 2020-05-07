@@ -1,6 +1,11 @@
 ---
 label: 模板1
 hide_body: false
-fields: []
+fields:
+- name: '12'
+  type: text
+  config:
+    required: false
+  label: '12'
 pages:
 - _posts/test1.md
